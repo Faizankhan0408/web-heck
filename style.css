@@ -87,7 +87,8 @@ header a:hover{
 	position: center;
 	width: 200px;
 	align-self: start;
-	background-color: #b7a8e6;
+	background-color: lightgoldenrodyellow;
+	border-radius:20px ;
 }
 .sub p{
 	font-size: 15px;
@@ -135,4 +136,8 @@ header social : hover{
 	}
 	 .container ul li a{
 	 	display: block;
+	 }
+	  .sub button : hover{
+	 	background-color: red;
+	 	border-radius: 50%;
 	 }
