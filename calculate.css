@@ -1,0 +1,30 @@
+.container{
+	text-align: center;
+	margin-top: 23px;
+}
+table {
+	margin: auto;
+}
+input{
+	font-size: 34px;
+	width: auto;
+	border: 5px solid blue;
+	border-radius: 20px;
+	border-bottom: 10px;
+}
+button{
+	font-size: 30px;
+	background: #4ceded;
+	width: 100px;
+	height: 60px;
+	border-radius: 9px;
+}
+.calculator{
+	display: inline-block;
+	background: #4d4ced;
+	padding: 23px;
+	border-radius: 10px;
+}
+.special{
+	background: red;
+}
